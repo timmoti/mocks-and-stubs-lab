@@ -13,3 +13,4 @@ In this lab, the code for a payments processor has been implemented, and your ta
 - Install dependencies: `npm install`
 - cd into project directory
 - Run tests: `npm run test:watch`
+- You can also check your test coverage: `npm run test:coverage`
