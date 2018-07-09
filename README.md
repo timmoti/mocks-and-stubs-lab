@@ -1,4 +1,4 @@
-# Labs: Mocks and stubs with `jest`
+# Lab: Mocks and stubs with `jest`
 
 In this lab, the code for a payments processor has been implemented, and your task is to write tests for each function:
 - `paymentService.js`
